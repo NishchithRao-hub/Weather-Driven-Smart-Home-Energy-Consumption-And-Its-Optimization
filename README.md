@@ -12,4 +12,4 @@ The main objective of this project is to develop a comprehensive framework for a
  predicting energy as these models acheived a lower mean absolute error (MAE) score and showed better
  predictive performance compared to other models like VARMAX, LSTM and Support Vector Machine. 
 
- This is the [Dataset Link: Smart Home Energy Consumption and Weather Data](https://www.kaggle.com/datasets/jamshaid1202/smart-home-energy-consumption-and-weather-data)
+ This is the Dataset Link: [Smart Home Energy Consumption and Weather Data](https://www.kaggle.com/datasets/jamshaid1202/smart-home-energy-consumption-and-weather-data)
