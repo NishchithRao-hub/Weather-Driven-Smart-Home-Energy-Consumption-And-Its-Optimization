@@ -1,8 +1,8 @@
-# Weather-Driven-Smart-Home-Energy-Consumption-And-Its-Optimization
+# Overview
 
-The main objective of this project is to develop a comprehensive framework for analyzing, predicting, and
+ The main objective of this project is to develop a comprehensive framework for analyzing, predicting, and
  optimizing energy consumption in a smart home environment using weather-driven data. By the use of
- advanced time-series analysis techniques and ML models, this code aims to recognize patterns in
+ advanced time-series analysis techniques and ML models, this project aims to recognize patterns in
  energy usage, detect anomalies, and provide usable insights for efficient usage of energy. The end goal is
  to create a system capable of predicting energy consumption and offering optimized device configurations
  that reduce costs and environmental impact without affecting household comfort.
@@ -11,5 +11,28 @@ The main objective of this project is to develop a comprehensive framework for a
  predictive and optimization models. We have used the VAR, Prophet and LightGBM Regressor model in 
  predicting energy as these models acheived a lower mean absolute error (MAE) score and showed better
  predictive performance compared to other models like VARMAX, LSTM and Support Vector Machine. 
+
+ ## Snapshots
+
+ ![image](https://github.com/user-attachments/assets/89b5fbbc-2450-4901-9ea4-b266610de3b9)
+ The image shows a dependency between home applicances and its affect on weather conditions
+
+ ![image](https://github.com/user-attachments/assets/904ee490-68ce-4d55-8396-1ad12ac29c53)
+ The image shows total energy consumption of various household appliances by day
+
+ ![image](https://github.com/user-attachments/assets/33ec4e9a-eb8d-45c6-ba3c-f974eee5f91f)
+ Total Energy consumption (actual vs predicted by the VAR model (long term vs short term comparison)
+
+ ![image](https://github.com/user-attachments/assets/cf76433f-62c7-4642-9a37-ffe8467a906f)
+ Total Energy consumption (actual vs predicted by the Prophet model (long term vs short term comparison)
+
+ ![image](https://github.com/user-attachments/assets/05a755ef-9c1f-4ad0-93af-dfaeef480849)
+ Total Energy consumption (actual vs predicted by the LightGBM Regressor model (long term vs short term comparison)
+
+![image](https://github.com/user-attachments/assets/6f766132-436c-4ec8-9e49-15c13fd37343)
+ The image has the SHAP model showing the impact of the given features on the prediction model
+
+
+ ### Dataset Link
 
  This is the Dataset Link: [Smart Home Energy Consumption and Weather Data](https://www.kaggle.com/datasets/jamshaid1202/smart-home-energy-consumption-and-weather-data)
