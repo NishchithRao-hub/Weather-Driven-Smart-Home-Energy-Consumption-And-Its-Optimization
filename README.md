@@ -14,32 +14,32 @@
 
  ## Snapshots
 
-<img src="https://github.com/user-attachments/assets/89b5fbbc-2450-4901-9ea4-b266610de3b9" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/89b5fbbc-2450-4901-9ea4-b266610de3b9" width="500" height="500">
 <p align="center">Dependency between home appliances and weather conditions</p>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/904ee490-68ce-4d55-8396-1ad12ac29c53" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/904ee490-68ce-4d55-8396-1ad12ac29c53" width="500" height="500">
 <p align="center">Total energy consumption of various household appliances by day</p>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/33ec4e9a-eb8d-45c6-ba3c-f974eee5f91f" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/33ec4e9a-eb8d-45c6-ba3c-f974eee5f91f" width="500" height="500">
 <p align="center">Total Energy consumption (actual vs predicted by the VAR model)</p>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/cf76433f-62c7-4642-9a37-ffe8467a906f" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/cf76433f-62c7-4642-9a37-ffe8467a906f" width="500" height="500">
 <p align="center">Total Energy consumption (actual vs predicted by the Prophet model)</p>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/05a755ef-9c1f-4ad0-93af-dfaeef480849" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/05a755ef-9c1f-4ad0-93af-dfaeef480849" width="500" height="500">
 <p align="center">Total Energy consumption (actual vs predicted by the LightGBM Regressor model)</p>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/6f766132-436c-4ec8-9e49-15c13fd37343" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/6f766132-436c-4ec8-9e49-15c13fd37343" width="500" height="500">
 <p align="center">SHAP model showing the impact of features on the prediction model</p>
 
 
